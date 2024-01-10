@@ -4,6 +4,10 @@ An undergraduate computer science student in the US.
 👨‍💻 All of my projects are available at GitHub
 ⚡ Fun fact I am also a digital artist. And I post my painting on Pixiv and Twitter(X).
 
+Communication Languages: English, Chinese (Mandarin & Cantonese), French (Elementary Level)
+
+Interests: Software Dev, Digital painting, Sketching, French Language, Night Photography
+
 LinkedIn: https://www.linkedin.com/in/yang-li-chris/
 Leetcode: skadiyyds
 
