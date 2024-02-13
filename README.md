@@ -14,4 +14,4 @@ Interests: Software Dev, Digital painting, Sketching, French Language, Night Pho
 LinkedIn: https://www.linkedin.com/in/yang-li-chris/
 Leetcode: skadiyyds
 
-Languages and Tools: Android Studio, Blender, C, Clip Studio Paint, Cplusplus, Git, Java, MySql, Paint Tool SAI, Photoshop, Premiere Pro
+Languages and Tools: Android Studio, Blender, C, Clip Studio Paint, Cplusplus, Git, Java, MySql, Paint Tool SAI, Photoshop, Premiere Pro, LaTeX
